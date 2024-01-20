@@ -1,0 +1,144 @@
+body{
+    background-color: black;
+}
+.main{
+    background-color: grey;
+    height: 600px;
+    width: 25%;
+    position: absolute;
+    top: 8%;
+    left: 35%;
+    border: 20pt solid white;
+    border-radius: 12pt;
+}
+.cam{
+    background-color: black;
+    height: 20px;
+    width: 20px;
+    border: pt solid black;
+    border-radius: 50%;
+    position: absolute;
+    top: 9%;
+    left: 49%;
+}
+#h{
+    margin-left: 3px;
+    text-align: left;
+    font-size: 10pt;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+#wifi{
+    text-align: center;
+    margin-left: 3px;
+    background-color: antiquewhite;
+    height: 60px;
+    width: 180px; 
+    border: 1px solid black;
+    border-radius: 10px;
+}
+#bt{
+    text-align: center;
+    margin-left: 3px;
+    margin-top: 5px;
+    background-color: antiquewhite;
+    height: 60px;
+    width: 180px; 
+    border: 1px solid black;
+    border-radius: 10px;
+}
+#song{
+    
+    margin-left: 3px;
+    margin-top: 5px;
+    background-color: antiquewhite;
+    height: 125px;
+    width: 180px; 
+    border: 1px solid black;
+    border-radius: 20px;
+    position: absolute;
+    top: 37.5px;
+    left: 195px;
+    margin-right: 3px;
+}
+.fun{
+    display: flex;
+    margin-top: 10px;
+    margin-left: 3px;
+    margin-right: 3px;
+    width: 100%;
+    text-align: center;
+}
+#data{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: aquamarine;
+    
+}
+#sil{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: aqua;
+    margin-left: 15px;
+}
+#loc{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: aqua;
+    margin-left: 15px;
+}
+#tor{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: aqua;
+    margin-left: 15px;
+}
+#air{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: aqua;
+    margin-left: 15px;
+}
+#hot{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: aqua;
+    margin-left: 15px;
+}
+.bar{
+ 
+    display: flex;
+    margin-top: 10px;
+    margin: left right 3px; 
+}
+#bright{
+    height: 50px;
+    width: 320px;
+    margin-left: 3px;
+    background-color: beige;
+    border-radius: 20pt;
+}
+#au{
+    margin-left: 12px;
+    margin-right: 3px;
+    height: 50px;
+    width: 50px;
+    background-color: aqua;
+    border-radius: 50%;
+}
+#bat{
+    position: absolute;
+    top: 2%;
+    left: 350px;
+}
+img{
+    position: relative;
+    top: 33%;
+    left: 3%;
+}
